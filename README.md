@@ -8,4 +8,4 @@ DML COMAND (INSERT,SELECT)-(https://github.com/akhilmario18/DBMS192110244/blob/m
 ##experiment 4
 DML COMAND UPDATE,DELETE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%204.txt)
 ##experiment 5
-SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING-
+SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%205.txt)
