@@ -1,0 +1,27 @@
+mysql> create table carrent(carname char(20),cost int(20),days int(20),type char(20));
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> desc carrent;
++---------+----------+------+-----+---------+-------+
+| Field   | Type     | Null | Key | Default | Extra |
++---------+----------+------+-----+---------+-------+
+| carname | char(20) | YES  |     | NULL    |       |
+| cost    | int(20)  | YES  |     | NULL    |       |
+| days    | int(20)  | YES  |     | NULL    |       |
+| type    | char(20) | YES  |     | NULL    |       |
++---------+----------+------+-----+---------+-------+
+4 rows in set (0.02 sec)
+
+mysql> insert into carrent values('lamborgini',1000000000,3,'electric'),('rolls roycle',1000000000,2,'petrol'),('bugahti',200000000,4,'petrol');
+Query OK, 3 rows affected (0.01 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> select*from carrent;
++--------------+------------+------+----------+
+| carname      | cost       | days | type     |
++--------------+------------+------+----------+
+| lamborgini   | 1000000000 |    3 | electric |
+| rolls roycle | 1000000000 |    2 | petrol   |
+| bugahti      |  200000000 |    4 | petrol   |
++--------------+------------+------+----------+
+3 rows in set (0.00 sec)
