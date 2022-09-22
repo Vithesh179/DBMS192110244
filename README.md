@@ -20,8 +20,8 @@ JOINS-(equijoin,Inner join ,Outer join)-(https://github.com/akhilmario18/DBMS192
 ## EXPERIMENT 10
 VIEW, INDEX,SEQUENCE-(https://github.com/akhilmario18/DBMS192110244/blob/main/EXPERI%2010.txt)
 ## EXPERIMENT 22
-BOOK PUBLISH-(https://github.com/akhilmario18/DBMS192110244/blob/main/experiment%2022.txt)
+BOOK PUBLISH-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2022.txt)
 ## EXPERIMENT 12
 REPEAT,WHILE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2012.txt)
 ## EXPERIMENT 13
-COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/main/experiment%2013.txt)
+COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2013.txt)
