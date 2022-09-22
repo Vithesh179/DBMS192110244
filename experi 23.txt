@@ -1,0 +1,26 @@
+mysql> create table hospital(patientid int(10),patientname char(10),medicineno int(10),fees int(10));
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> desc hospital;
++-------------+----------+------+-----+---------+-------+
+| Field       | Type     | Null | Key | Default | Extra |
++-------------+----------+------+-----+---------+-------+
+| patientid   | int(10)  | YES  |     | NULL    |       |
+| patientname | char(10) | YES  |     | NULL    |       |
+| medicineno  | int(10)  | YES  |     | NULL    |       |
+| fees        | int(10)  | YES  |     | NULL    |       |
++-------------+----------+------+-----+---------+-------+
+4 rows in set (0.03 sec)
+
+mysql> insert into hospital values(22,'siva',13,20000),(33,'mani',11,3000000);
+Query OK, 2 rows affected (0.02 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> select*from hospital;
++-----------+-------------+------------+---------+
+| patientid | patientname | medicineno | fees    |
++-----------+-------------+------------+---------+
+|        22 | siva        |         13 |   20000 |
+|        33 | mani        |         11 | 3000000 |
++-----------+-------------+------------+---------+
+2 rows in set (0.00 sec)
