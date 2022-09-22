@@ -26,4 +26,4 @@ REPEAT,WHILE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%201
 ## EXPERIMENT 13
 COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2013.txt)
 ## EXPERIMENT 23
-HOSPITAL-(
+HOSPITAL-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2023.txt)
