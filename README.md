@@ -22,4 +22,4 @@ VIEW, INDEX,SEQUENCE-(https://github.com/akhilmario18/DBMS192110244/blob/main/EX
 ## EXPERIMENT 22
 BOOK PUBLISH-(https://github.com/akhilmario18/DBMS192110244/blob/main/experiment%2022.txt)
 ## EXPERIMENT 12
-REPEAT,WHILE-(
+REPEAT,WHILE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2012.txt)
