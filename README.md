@@ -23,6 +23,8 @@ VIEW, INDEX,SEQUENCE-(https://github.com/akhilmario18/DBMS192110244/blob/main/EX
 REPEAT,WHILE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2012.txt)
 ## EXPERIMENT 13
 COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2013.txt)
+## EXPERIMENT 14
+GRANT,REVOKE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2014.txt)
 ## EXPERIMENT 15
 Procedures-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2015.txt)
 ## EXPERIMENT 19
