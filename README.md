@@ -21,3 +21,5 @@ JOINS-(equijoin,Inner join ,Outer join)-(https://github.com/akhilmario18/DBMS192
 VIEW, INDEX,SEQUENCE-(https://github.com/akhilmario18/DBMS192110244/blob/main/EXPERI%2010.txt)
 ## EXPERIMENT 22
 BOOK PUBLISH-(https://github.com/akhilmario18/DBMS192110244/blob/main/experiment%2022.txt)
+## EXPERIMENT 12
+REPEAT,WHILE-(
