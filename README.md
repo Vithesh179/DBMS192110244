@@ -27,3 +27,5 @@ COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/ma
 BOOK PUBLISH-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2022.txt)
 ## EXPERIMENT 23
 HOSPITAL-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2023.txt)
+## EXPERIMENT 24
+CAR RENTAL COMPANY-(
