@@ -39,6 +39,8 @@ COMMIT,ROLLBACK,SAVEPOINT-(https://github.com/akhilmario18/DBMS192110244/blob/ma
 GRANT,REVOKE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2014.txt)
 ## EXPERIMENT 15
 Procedures-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2015.txt)
+## EXPERIMENT 17
+Cursors-(https://github.com/akhilmario18/DBMS192110244/blob/main/cursors)
 ## EXPERIMENT 19
 Using php & MYSQL-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2019.txt)
 ## EXPERIMENT 21
