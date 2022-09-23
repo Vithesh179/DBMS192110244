@@ -1,0 +1,14 @@
+mysql> create table faculty(id int(4),name char(30),course char(10),department char(10),salary int(10));
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> desc faculty;
++------------+----------+------+-----+---------+-------+
+| Field      | Type     | Null | Key | Default | Extra |
++------------+----------+------+-----+---------+-------+
+| id         | int(4)   | YES  |     | NULL    |       |
+| name       | char(30) | YES  |     | NULL    |       |
+| course     | char(10) | YES  |     | NULL    |       |
+| department | char(10) | YES  |     | NULL    |       |
+| salary     | int(10)  | YES  |     | NULL    |       |
++------------+----------+------+-----+---------+-------+
+5 rows in set (0.01 sec)
