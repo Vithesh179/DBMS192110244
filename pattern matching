@@ -1,0 +1,17 @@
+mysql> select * from student;
++------------+--------+----------+-------------+------------+
+| id         | name   | phno     | address     | fathername |
++------------+--------+----------+-------------+------------+
+| 1234567894 | ramu   | 93928097 | semarabakam | kesavulu   |
+|  143145146 | raju   | 82472299 | purunjur    | srinivas   |
+|   15678234 | rakesh | 88976005 | chettiped   | vekatesan  |
++------------+--------+----------+-------------+------------+
+3 rows in set (0.00 sec)
+
+mysql> select * from student where name like '%sh';
++----------+--------+----------+-----------+------------+
+| id       | name   | phno     | address   | fathername |
++----------+--------+----------+-----------+------------+
+| 15678234 | rakesh | 88976005 | chettiped | vekatesan  |
++----------+--------+----------+-----------+------------+
+1 row in set (0.00 sec)
