@@ -21,7 +21,8 @@
 #### where-(https://github.com/akhilmario18/DBMS192110244/blob/main/where)
 #### pattern matching-(https://github.com/akhilmario18/DBMS192110244/blob/main/pattern%20matching)
 ## experiment 6
-SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%206.txt)
+#### SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%206.txt)
+#### between in-(https://github.com/akhilmario18/DBMS192110244/blob/main/between%20in)
 ## EXPERIMENT 7
 SELECT with various clause - GROUP BY, ORDER BY , HAVING-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%207.txt)
 ## EXPERIMENT 8
