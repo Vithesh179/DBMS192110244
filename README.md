@@ -18,6 +18,7 @@ DML COMAND UPDATE,DELETE-(https://github.com/akhilmario18/DBMS192110244/blob/mai
 ## delete-(https://github.com/akhilmario18/DBMS192110244/blob/main/delete)
 ## experiment 5
 SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%205.txt)
+## where-(https://github.com/akhilmario18/DBMS192110244/blob/main/where)
 ## experiment 6
 SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%206.txt)
 ## EXPERIMENT 7
