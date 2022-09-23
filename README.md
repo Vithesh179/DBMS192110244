@@ -45,6 +45,8 @@ Procedures-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2015.
 Cursors-(https://github.com/akhilmario18/DBMS192110244/blob/main/cursors)
 ## EXPERIMENT 19
 Using php & MYSQL-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2019.txt)
+## EXPERIMENT 20
+using java&mysql-(https://github.com/akhilmario18/DBMS192110244/blob/main/JAVA%26MYSQL)
 ## EXPERIMENT 21
 Using java & MS Access-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2021.txt)
 ## EXPERIMENT 22
