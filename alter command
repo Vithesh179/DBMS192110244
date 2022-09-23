@@ -1,0 +1,18 @@
+mysql> alter table faculty add age int(3);
+Query OK, 1 row affected (0.03 sec)
+Records: 1  Duplicates: 0  Warnings: 0
+
+mysql> dec faculty;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'dec faculty' at line 1
+mysql> desc faculty;
++------------+----------+------+-----+---------+-------+
+| Field      | Type     | Null | Key | Default | Extra |
++------------+----------+------+-----+---------+-------+
+| id         | int(4)   | YES  |     | NULL    |       |
+| name       | char(30) | YES  |     | NULL    |       |
+| course     | char(10) | YES  |     | NULL    |       |
+| department | char(10) | YES  |     | NULL    |       |
+| salary     | int(10)  | YES  |     | NULL    |       |
+| age        | int(3)   | YES  |     | NULL    |       |
++------------+----------+------+-----+---------+-------+
+6 rows in set (0.01 sec)
