@@ -31,6 +31,8 @@ SUBQURIES AND CORELETAED QUERY-(https://github.com/akhilmario18/DBMS192110244/bl
 JOINS-(equijoin,Inner join ,Outer join)-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%209.txt)
 ## EXPERIMENT 10
 VIEW, INDEX,SEQUENCE-(https://github.com/akhilmario18/DBMS192110244/blob/main/EXPERI%2010.txt)
+## EXPERIMENT 11
+CASE,IF,ITERATE,LEAVE,LOOP-(https://github.com/akhilmario18/DBMS192110244/blob/main/case%2Cif%2Citerate%2Cleave%2Cloop)
 ## EXPERIMENT 12
 REPEAT,WHILE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%2012.txt)
 ## EXPERIMENT 13
