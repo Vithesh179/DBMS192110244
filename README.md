@@ -5,21 +5,21 @@
 #### alter-(https://github.com/akhilmario18/DBMS192110244/blob/main/alter%20command)
 #### drop-(https://github.com/akhilmario18/DBMS192110244/blob/main/dml%20drop)
 ## experiment 2
-DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%202.txt)
-## foriegn-(https://github.com/akhilmario18/DBMS192110244/blob/main/Foreign%20key.txt)
-## primary-(https://github.com/akhilmario18/DBMS192110244/blob/main/primary.txt)
+#### DDL COMANDS (PRIMERY KEY,FORIEGN KEY)-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%202.txt)
+#### foriegn-(https://github.com/akhilmario18/DBMS192110244/blob/main/Foreign%20key.txt)
+#### primary-(https://github.com/akhilmario18/DBMS192110244/blob/main/primary.txt)
 ## experiment 3
-DML COMAND (INSERT,SELECT)-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%203.txt)
-## insert-(https://github.com/akhilmario18/DBMS192110244/blob/main/insert)
-## select-(https://github.com/akhilmario18/DBMS192110244/blob/main/select)
+#### DML COMAND (INSERT,SELECT)-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%203.txt)
+#### insert-(https://github.com/akhilmario18/DBMS192110244/blob/main/insert)
+#### select-(https://github.com/akhilmario18/DBMS192110244/blob/main/select)
 ## experiment 4
-DML COMAND UPDATE,DELETE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%204.txt)
-## update-(https://github.com/akhilmario18/DBMS192110244/blob/main/update)
-## delete-(https://github.com/akhilmario18/DBMS192110244/blob/main/delete)
+#### DML COMAND UPDATE,DELETE-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%204.txt)
+#### update-(https://github.com/akhilmario18/DBMS192110244/blob/main/update)
+#### delete-(https://github.com/akhilmario18/DBMS192110244/blob/main/delete)
 ## experiment 5
-SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%205.txt)
-## where-(https://github.com/akhilmario18/DBMS192110244/blob/main/where)
-### pattern matching-(https://github.com/akhilmario18/DBMS192110244/blob/main/pattern%20matching)
+#### SELECT WITH VARIOUS CLAUSES- WHERE,PATTERN MATCHING-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%205.txt)
+#### where-(https://github.com/akhilmario18/DBMS192110244/blob/main/where)
+#### pattern matching-(https://github.com/akhilmario18/DBMS192110244/blob/main/pattern%20matching)
 ## experiment 6
 SELECT WITH VARIOUS CLAUSES-BETWEEN,IN,AGGRATE FUNCTIONS-(https://github.com/akhilmario18/DBMS192110244/blob/main/experi%206.txt)
 ## EXPERIMENT 7
